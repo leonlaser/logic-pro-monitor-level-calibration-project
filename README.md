@@ -3,7 +3,7 @@
 
 This project file intends to help calibrating your monitor levels. I accumulated this little walkthrough by reading up on a bunch of blogposts and took what worked for me personally without really knowing if this is the way to achieve a good volume.
 
-I welcome everybody to participate in optimized the project file and my first draft of a guide on how to proceed.
+I welcome everybody to participate in optimizing the project file and my first draft of a guide on how to proceed.
 
 ### 1. Set monitors to lowest possible volume
 If you'd like you can unmute the Pink Noise (S) track to see if you can set your monitors to output no sound at all.
